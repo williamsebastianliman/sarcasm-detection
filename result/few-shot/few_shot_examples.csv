@@ -1,0 +1,444 @@
+image_id,caption,pred_label,label_text,confidence,reason,raw_output,true_label,text,category,image_description
+819434366954799104,wtf is this ? haha <user> seems like there is a misconception ..,1,SARCASM,High,"The caption ""wtf is this ? haha <user> seems like there is a misconception .."" suggests amusement or disbelief, which aligns with the identified textual incongruity in the image where ""4GB-RAM AND 32GB of RAM"" redundantly mentions RAM, a known mistake in tech specifications. Moreover, the hand-drawn elements highlighting the redundant text further support the sarcastic interpretation by emphasizing the error as a point of humor. This creates a semantic gap between the expected precision in specifications and the actual text, reinforcing the sarcastic tone.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""wtf is this ? haha <user> seems like there is a misconception .."" suggests amusement or disbelief, which aligns with the identified textual incongruity in the image where ""4GB-RAM AND 32GB of RAM"" redundantly mentions RAM, a known mistake in tech specifications. Moreover, the hand-drawn elements highlighting the redundant text further support the sarcastic interpretation by emphasizing the error as a point of humor. This creates a semantic gap between the expected precision in specifications and the actual text, reinforcing the sarcastic tone.",1,wtf is this ? haha <user> seems like there is a misconception ..,SARCASM_CLEAR,"1. **OVERALL SCENE**: The image features a close-up of a hand holding a smartphone with a highlighted text beneath it.
+
+2. **OBJECTS & POSITIONS**: 
+   - Smartphone: Center, held upright in the hand.
+   - Text: Bottom part of the image.
+   - Arrow and circle drawing: Drawn around the text, pointing to the highlighted part.
+
+3. **PEOPLE**: 
+   - Hand visible, holding the phone.
+   - Skin tone suggests it's a human hand, but no other details.
+
+4. **TEXT/GRAPHICS**:
+   - Text states: ""Moto G5-Plus 5.5-inch full-HD display 4GB-RAM AND 32GB of RAM""
+   - Arrow and circle graphics suggest highlighting or pointing out part of the text.
+
+5. **COLORS & TONE**:
+   - The smartphone has a metallic gray tone.
+   - Text is green, and background is a dim indoor setting.
+   - Lines and arrows are blue.
+
+6. **IRONY/INCONGRUITY**:
+   - The text about the phone's specifications repeats the phrase “of RAM” which may suggest an error or redundancy.
+   - The combination of 4GB-RAM and 32GB may cause confusion or seem incorrect, likely highlighted by the drawn circle and arrow."
+713360329762189313,word,1,SARCASM,High,"The caption ""word"" starkly contrasts with the playful and ironic message in the image, which humorously personifies items like eyelashes and shooting stars as if they have the responsibility to fulfill wishes. The textual content implicitly mocks the superstition by stating ""DO YOUR JOB"" to these symbols, which creates a semantic misalignment with the literal, nondescriptive caption. The incongruity between the expectation of seriousness in the word and the humor in the image's message strongly suggests sarcasm.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""word"" starkly contrasts with the playful and ironic message in the image, which humorously personifies items like eyelashes and shooting stars as if they have the responsibility to fulfill wishes. The textual content implicitly mocks the superstition by stating ""DO YOUR JOB"" to these symbols, which creates a semantic misalignment with the literal, nondescriptive caption. The incongruity between the expectation of seriousness in the word and the humor in the image's message strongly suggests sarcasm.",1,word,SARCASM_CLEAR,"1. **OVERALL SCENE**
+   - The image is a digital graphic consisting mainly of text on a plain background.
+
+2. **OBJECTS & POSITIONS**
+   - There are no physical objects present. 
+   - Text is centrally positioned on the image.
+
+3. **PEOPLE**
+   - There are no people depicted in the image.
+
+4. **TEXT/GRAPHICS**
+   - Top part: ""Dear eyelashes, wishbones, dandelions, pennies, shooting stars, 11:11, and birthday candles,""
+   - Bottom part: ""DO YOUR JOB.""
+   - The bottom text ""DO YOUR JOB."" is emphasized with a bolder and more distinct style.
+
+5. **COLORS & TONE**
+   - Background is black.
+   - Text is white, providing high contrast with the background.
+   - Tone is straightforward with emphasis on the bottom phrase.
+
+6. **IRONY/INCONGRUITY**
+   - The text refers to common objects and moments people associate with making wishes, humorously implying they have a job to fulfill—making wishes come true."
+880843375699734528,"<user> these people r nuts , all they need <num> do is wait a couple of years when u aren 't popular anymore & get an autograph then .",1,SARCASM,High,"The caption describes people as ""nuts"" for eagerly seeking autographs now instead of waiting until the individual is ""not popular anymore,"" illustrating verbal irony by suggesting it's more sensible to wait for unpopularity to obtain an autograph, a scenario that undermines typical fandom behavior. The lively scene with people casually gathered at a leisure venue around the ""44 garage"" building doesn't align with competitiveness or urgency associated with celebrity environments, thereby creating a semantic gap between the image’s normal social interaction and the caption’s sarcastic suggestion about fame and autograph value.","LABEL: SARCASM
+CONFIDENCE: High
+REASON: The caption describes people as ""nuts"" for eagerly seeking autographs now instead of waiting until the individual is ""not popular anymore,"" illustrating verbal irony by suggesting it's more sensible to wait for unpopularity to obtain an autograph, a scenario that undermines typical fandom behavior. The lively scene with people casually gathered at a leisure venue around the ""44 garage"" building doesn't align with competitiveness or urgency associated with celebrity environments, thereby creating a semantic gap between the image’s normal social interaction and the caption’s sarcastic suggestion about fame and autograph value.",1,"<user> these people r nuts , all they need <num> do is wait a couple of years when u aren 't popular anymore & get an autograph then .",SARCASM_CLEAR,"1. **OVERALL SCENE**: The image captures a crowd of people walking on a paved surface outside a building that resembles a garage.
+
+2. **OBJECTS & POSITIONS**: 
+   - **Top-left**: Part of a red building with a sign that reads ""44 garage.""
+   - **Center**: People gathered and moving in different directions.
+   - **Bottom-right**: Children appear to be interacting or playing.
+
+3. **PEOPLE**:
+   - **Expressions**: Not clearly visible, but they appear to be casually engaging or walking.
+   - **Clothing**: Casual summer attire, such as shorts, t-shirts, and caps.
+   - **Position**: Groups and pairs of people standing or walking around the area.
+
+4. **TEXT/GRAPHICS**: ""44 garage"" printed in a white circle on the red wall of the building.
+
+5. **COLORS & TONE**: Bright, natural colors with a clear blue sky, red building, and various colorful clothing items creating a lively atmosphere.
+
+6. **IRONY/INCONGRUITY**: The setting suggests a busy and possibly exciting event, yet the presence of the term ""garage"" contrasts with the vibrant outdoor crowd, hinting at a juxtaposition between the typical utility of a garage and the lively social gathering happening outside it."
+897650161777815552,winning fill the car up at the servo & get this beautiful bracelet for the wife . you think of everything .,1,SARCASM,High,"The caption suggests sarcasm by implying that a mere keychain, normally not considered a luxury item or an impressive gift for a spouse, is a ""beautiful bracelet"" received by ""winning"" at filling up a car—which is comically contrasted with the actual prize of a luxury shopping trip suggested in the advertisement. The semantic gap between the supposed ""prize"" (a keychain) and the real promotional offer highlights a sarcastic tone. Furthermore, the incredulous phrase ""you think of everything"" enhances the sarcastic suggestion, as it feigns gratitude for something that doesn't align with the advertised luxury and style context.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption suggests sarcasm by implying that a mere keychain, normally not considered a luxury item or an impressive gift for a spouse, is a ""beautiful bracelet"" received by ""winning"" at filling up a car—which is comically contrasted with the actual prize of a luxury shopping trip suggested in the advertisement. The semantic gap between the supposed ""prize"" (a keychain) and the real promotional offer highlights a sarcastic tone. Furthermore, the incredulous phrase ""you think of everything"" enhances the sarcastic suggestion, as it feigns gratitude for something that doesn't align with the advertised luxury and style context.",1,winning fill the car up at the servo & get this beautiful bracelet for the wife . you think of everything .,SARCASM_CLEAR,"1. **OVERALL SCENE**: The image appears to be an advertisement combining fashion and shopping incentives.
+
+2. **OBJECTS & POSITIONS**: 
+   - **Top-left**: Logos of Caltex and Myer.
+   - **Center**: Large text promoting fashion and a shopping contest.
+   - **Bottom-right**: An arm with a hand wearing a bracelet.
+
+3. **PEOPLE**: 
+   - Only a woman's hand is visible, positioned vertically with relaxed fingers. The wrist has a bracelet with a Caltex logo.
+
+4. **TEXT/GRAPHICS**:
+   - Main text: ""FUEL YOUR LOVE OF FASHION.""
+   - Subtext: ""WIN a luxury shopping trip to LA, plus a share of $10K StarCash. Simply spend over $30 and scan your MYER one card to enter.""
+   - Graphic: Illustration of a shopping bag.
+
+5. **COLORS & TONE**:
+   - Background: Dark green and red with some light blue. 
+   - Text: White and black for contrast. The overall tone is promotional and vibrant.
+
+6. **IRONY/INCONGRUITY**:
+   - The juxtaposition of a fuel company (Caltex) with fashion and shopping, highlighting a potential incongruity in branding focus."
+822591633233506308,this moron really ran our country for 8 years,1,SARCASM,High,"The caption ""this moron really ran our country for 8 years"" uses the word ""moron,"" which is verbally ironic, as it implies foolishness. This is incongruous with the likely identity of ""Person A"" as a figure of authority, suggested by the formal attire and context of someone being supported by others. The image shows an older male (Person A) struggling humorously with a simple task of putting on a poncho. The semantic gap between the caption's insinuation of incompetence in a significant role and the light-hearted scene depicting trivial difficulty creates a sarcastic tone.","LABEL: SARCASM
+CONFIDENCE: High
+REASON: The caption ""this moron really ran our country for 8 years"" uses the word ""moron,"" which is verbally ironic, as it implies foolishness. This is incongruous with the likely identity of ""Person A"" as a figure of authority, suggested by the formal attire and context of someone being supported by others. The image shows an older male (Person A) struggling humorously with a simple task of putting on a poncho. The semantic gap between the caption's insinuation of incompetence in a significant role and the light-hearted scene depicting trivial difficulty creates a sarcastic tone.",1,this moron really ran our country for 8 years,SARCASM_CLEAR,"1. **OVERALL SCENE**: The image is a collage of four photos taken at an outdoor event where people are seated in rows. The scene appears formal, with individuals dressed formally and sitting closely together.
+
+2. **OBJECTS & POSITIONS**: 
+   - **Top-left**: A person handling a transparent plastic sheet, possibly a rain poncho.
+   - **Top-right**: The same person struggling to put on the plastic sheet.
+   - **Bottom-left**: Someone sitting in front with a calm expression, facing forward.
+   - **Bottom-right**: The first person now looks satisfied, having successfully put on the plastic sheet.
+
+3. **PEOPLE**:
+   - A person (cannot be identified) wearing a suit, initially looking confused and adjusting a plastic poncho in the top row images.
+   - In the bottom-left, another person (cannot be identified) wearing a dark suit, looking forward with a composed expression.
+   - In the bottom-right, the person with the poncho looks relaxed and smiles slightly, indicating relief.
+
+4. **TEXT/GRAPHICS**: No text or graphics are present in the images.
+
+5. **COLORS & TONE**: Dominant colors are dark suits, white ponchos, and some red clothing visible in the background. The tone is formal yet humorous due to the actions depicted.
+
+6. **IRONY/INCONGRUITY**: The contrast between the formal setting and the awkward struggle with the plastic poncho adds a humorous element. The juxtaposition of expressions—from confusion to relief—enhances the incongruity."
+818430536045604866,at art <num> fest jan 13-15 byculla mumbai . <user> <user> <user>,0,NOT SARCASM,High,"The caption ""at art <num> fest jan 13-15 byculla mumbai"" is informative, simply stating event details, and aligns well with the image description. The image depicts a promotional poster for a comedy event with specific dates and the same city location, Mumbai, mentioned. There are no semantic gaps, verbal irony, or incongruous elements present in the post that suggest sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""at art <num> fest jan 13-15 byculla mumbai"" is informative, simply stating event details, and aligns well with the image description. The image depicts a promotional poster for a comedy event with specific dates and the same city location, Mumbai, mentioned. There are no semantic gaps, verbal irony, or incongruous elements present in the post that suggest sarcasm.",1,at art <num> fest jan 13-15 byculla mumbai . <user> <user> <user>,SARCASM_SUBTLE,"1. **OVERALL SCENE**: The image is a promotional poster for an event titled ""Oye... Stand Up!"" featuring Mohit Sharma and Ankita Shrivastav. It includes information about the event and visuals of the performers.
+
+2. **OBJECTS & POSITIONS**:
+   - **Top-Left**: Logo and text ""Ambal's Oye... Stand Up! #02"".
+   - **Center**: Photos of the performers.
+   - **Bottom-Right**: Event details, entry fees, venue information.
+
+3. **PEOPLE**:
+   - Two individuals are in the center photo.
+   - Both are smiling; the man is on the left wearing a black shirt, and the woman on the right is wearing a black top.
+   - Additional smaller images show a man and a woman interacting, positioned in the bottom-left.
+
+4. **TEXT/GRAPHICS**:
+   - ""ART 35 Young Affordable Art"" is at the top-right.
+   - Event details include title, performers’ names, date, time, entry fees, and venue location.
+   - Contact information is at the bottom-right.
+
+5. **COLORS & TONE**:
+   - Predominantly black, white, and yellow/orange text.
+   - Bright and bold for emphasis; professional, straightforward layout.
+
+6. **IRONY/INCONGRUITY**:
+   - The title ""Oye... Stand Up!"" suggests comedy despite the serious format of a formal poster.
+   - The performers' smiling faces contrast with the formal event details, creating an amusing juxtaposition."
+921779205842657280,"salina central state qualifiers 2017 . sorry , but you have one more week of practice .",0,NOT SARCASM,High,"The caption ""salina central state qualifiers 2017 . sorry , but you have one more week of practice ."" is straightforward in its communication, referring to an additional week of practice before a cross-country event. The image shows a group of young people happily smiling outdoors, dressed in cross-country-related attire, which aligns with the setting described in the caption. There is no semantic gap between the text and image, and no irony or incongruity is evident; rather, the happy expressions and team spirit conveyed by the image support the notion of them being successful and qualifying for state, making the caption sincere and non-sarcastic.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""salina central state qualifiers 2017 . sorry , but you have one more week of practice ."" is straightforward in its communication, referring to an additional week of practice before a cross-country event. The image shows a group of young people happily smiling outdoors, dressed in cross-country-related attire, which aligns with the setting described in the caption. There is no semantic gap between the text and image, and no irony or incongruity is evident; rather, the happy expressions and team spirit conveyed by the image support the notion of them being successful and qualifying for state, making the caption sincere and non-sarcastic.",1,"salina central state qualifiers 2017 . sorry , but you have one more week of practice .",SARCASM_SUBTLE,"1. **OVERALL SCENE**: The image depicts four young individuals posing together outdoors, exuding a sense of camaraderie and friendship. The background is filled with greenery, indicating a natural setting, such as a park or forest.
+
+2. **OBJECTS & POSITIONS**: 
+   - **Foreground**: Grass on the ground where the people are standing.
+   - **Background**: Dense bushes or trees fill the backdrop.
+   - **Top-Left**: Part of the foliage.
+   - **Center**: The group of four people standing close together.
+   - **Bottom-Right**: Part of the ground and possibly more foliage.
+
+3. **PEOPLE**: 
+   - All four are smiling, suggesting a pleasant or celebratory mood.
+   - **Clothing**: Two are wearing maroon shirts and athletic shorts, one is in a white sweatshirt with matching shorts, and one in a grey sweatshirt and shorts. All clothing features the same ""MUSTANG XC CROSS COUNTRY"" logo.
+   - They are standing closely together, with arms around each other's shoulders.
+
+4. **TEXT/GRAPHICS**: 
+   - The shirts display the text ""MUSTANG XC CROSS COUNTRY"" with a stylized logo including arrows.
+   - The text is prominently centered on their clothing, associating them with a team or event.
+
+5. **COLORS & TONE**: 
+   - The color palette includes maroon, white, grey, and black for clothing, with natural greens and browns in the background. 
+   - The overall tone is casual and relaxed.
+
+6. **IRONY/INCONGRUITY**: 
+   - All elements appear consistent with a team or sports event; there is no obvious visual or contextual irony/incongruity in the image."
+690561903580418048,"expecting ? sorry . it 's friday , i 'm too tired .",0,NOT SARCASM,Medium,"The caption ""expecting ? sorry . it 's friday , i 'm too tired ."" does not directly align with any specific visual elements within the comic-style image, as it discusses tiredness and expectation—a separate context from the man's smile and humorous assertion regarding animals and friendship. The image's mood is light-hearted, fitting with the playful sentiment in the speech bubble, suggesting intentional humor rather than sarcasm. There is no clear semantic gap or contradiction between the visual and textual content to necessitate a sarcastic interpretation.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption ""expecting ? sorry . it 's friday , i 'm too tired ."" does not directly align with any specific visual elements within the comic-style image, as it discusses tiredness and expectation—a separate context from the man's smile and humorous assertion regarding animals and friendship. The image's mood is light-hearted, fitting with the playful sentiment in the speech bubble, suggesting intentional humor rather than sarcasm. There is no clear semantic gap or contradiction between the visual and textual content to necessitate a sarcastic interpretation.",1,"expecting ? sorry . it 's friday , i 'm too tired .",SARCASM_SUBTLE,"1. **OVERALL SCENE**  
+   The image shows an illustration of a man's face alongside a speech bubble containing text.
+
+2. **OBJECTS & POSITIONS**  
+   - **Top-left**: Partial view of a man's face.
+   - **Center**: White speech bubble with text.
+   - **Background**: Yellow backdrop with black abstract patterns.
+
+3. **PEOPLE**  
+   - The man has a slight smirk and raised eyebrows.
+   - He has dark hair with white highlights.
+   - Only part of his face is visible.
+
+4. **TEXT/GRAPHICS**  
+   - Inside the speech bubble:  
+     - ""ANIMALS ARE MY FRIENDS."" (black text, uppercase)
+     - ""I DON'T EAT MY FRIENDS."" (red text, uppercase)
+
+5. **COLORS & TONE**  
+   - Predominantly black, white, red, and yellow.
+   - Cartoonish style with a retro tone.
+
+6. **IRONY/INCONGRUITY**  
+   - The text contrasts the idea of friendship with the act of eating, hinting at a possible humorous or ironic intent."
+828966943214432256,so proud of <user> 's efforts to fill the swamp with republican donors . great job .,0,NOT SARCASM,Low,"Without a detailed image description, it is challenging to assess the semantic alignment between the caption and the image. The caption uses phrases like ""so proud"" and ""great job"" which could be interpreted as genuine praise or sarcasm depending on the context. The use of quotation marks around ""efforts to fill the swamp with republican donors"" suggests a potential incongruity or critique, but without visual evidence, it is difficult to conclusively determine the presence of sarcasm. Therefore, the label is tentative and relies solely on textual analysis.","LABEL: NOT SARCASM
+CONFIDENCE: Low
+REASON: Without a detailed image description, it is challenging to assess the semantic alignment between the caption and the image. The caption uses phrases like ""so proud"" and ""great job"" which could be interpreted as genuine praise or sarcasm depending on the context. The use of quotation marks around ""efforts to fill the swamp with republican donors"" suggests a potential incongruity or critique, but without visual evidence, it is difficult to conclusively determine the presence of sarcasm. Therefore, the label is tentative and relies solely on textual analysis.",1,so proud of <user> 's efforts to fill the swamp with republican donors . great job .,SARCASM_SUBTLE,"1. **OVERALL SCENE**
+   - The image features a prominent figure giving a thumbs-up gesture in front of a swamp background.
+
+2. **OBJECTS & POSITIONS**
+   - Top-left: Parts of trees and swamp.
+   - Center: The person with a thumbs-up gesture.
+   - Bottom-right: Text overlaid on the image. The swamp environment fills the background.
+
+3. **PEOPLE**
+   - Expression: The person has a neutral facial expression.
+   - Clothing: Wearing a dark suit, white shirt, and red tie.
+   - Position: The person occupies the central part of the image with a visible thumbs-up gesture.
+
+4. **TEXT/GRAPHICS**
+   - Top text: “DRAIN THE SWAMP”
+   - Bottom text: “FILL IT WITH UNQUALIFIED DONORS”
+   - Text is in bold white capital letters and spans the width of the image.
+
+5. **COLORS & TONE**
+   - Predominantly green and brown tones in the swamp background.
+   - The person is dressed in dark and formal colors with a bright red accent.
+
+6. **IRONY/INCONGRUITY**
+   - The phrase “DRAIN THE SWAMP” paired with “FILL IT WITH UNQUALIFIED DONORS” suggests a contrast between a promise to remove corruption and the implication of replacing it with another form of incompetence."
+820052289691860992,tonight ! 7-9 at 7308 melrose . it 's official rick & morty art show time . ( piece from jason chalker ),0,NOT SARCASM,High,"The caption straightforwardly promotes a Rick & Morty art show, aligning directly with the fantastical themes depicted in the image's comic-style panels. The image illustrates elements typical of the Rick & Morty ethos: whimsical adventures and extravagant scenarios featuring animated characters that fit the described caption’s context. Therefore, the post functions as a promotional statement without ironic or sarcastic intent, as there is no semantic gap between the caption promoting the art show and the image portraying Rick & Morty-style artwork.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The caption straightforwardly promotes a Rick & Morty art show, aligning directly with the fantastical themes depicted in the image's comic-style panels. The image illustrates elements typical of the Rick & Morty ethos: whimsical adventures and extravagant scenarios featuring animated characters that fit the described caption’s context. Therefore, the post functions as a promotional statement without ironic or sarcastic intent, as there is no semantic gap between the caption promoting the art show and the image portraying Rick & Morty-style artwork.",0,tonight ! 7-9 at 7308 melrose . it 's official rick & morty art show time . ( piece from jason chalker ),NON_SARCASM_CLEAR,"1. **OVERALL SCENE**: The image is divided into three panels, each depicting cartoon-like characters and humorous, fantastical scenarios.
+
+2. **OBJECTS & POSITIONS**:
+   - **Top-Left**: Bright red text saying ""LOOK DOWN!""
+   - **Top-Center**: A character is falling into a creature’s mouth.
+   - **Middle-Center**: Space scene with a character holding a weapon on a spaceship.
+   - **Middle-Left**: Another bright red text saying ""LOOK UP!""
+   - **Bottom-Right**: Characters lounging on a large creature.
+   - **Foreground**: The characters and creatures are prominently featured.
+   - **Background**: Outer space, rocky terrain, grassy field.
+
+3. **PEOPLE**:
+   - Characters express exaggerated, cartoonish emotions; one looks surprised while being swallowed.
+   - Characters in space appear adventurous and alert.
+   - Clothing varies from futuristic space outfits to casual wear.
+   - Positioned dynamically, falling, or taking action in their panels.
+
+4. **TEXT/GRAPHICS**:
+   - Three main attention lines: ""LOOK DOWN!"", ""LOOK UP!"", ""LOOK OUT!""
+   - Additional text in the bottom panel about a ""SQUANCH"" adventure theme.
+
+5. **COLORS & TONE**:
+   - Vivid colors, with a playful and exaggerated cartoon style.
+   - Red text stands out for emphasis.
+   - Contrast between dark space and bright textiles.
+
+6. **IRONY/INCONGRUITY**:
+   - The dramatic text contrasts with the humorous and exaggerated scenarios.
+   - The epic adventure suggested by the text is undercut by the comical and chaotic imagery.
+   - Characters’ exaggerated predicaments play against the serious film-like text."
+823309471464259589,"this was an experience and a half to make ! wouldn 't have even known where to start if it wasnt for <user> , thank you so much \ ( ^ o ^ ) /",0,NOT SARCASM,High,"The caption expresses genuine appreciation and gratitude towards a user for help in making the felt doll, which aligns with the whimsical and cheerful portrayal of the doll in the image. The caption does not contain any verbal irony, hyperbole, or understatement but instead reflects a straightforward commentary on the challenge of creating the item and gratitude for assistance, which is consistent with the visual of a homemade creative project. There are no semantic gaps or incongruous visual-textual juxtapositions that would indicate sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The caption expresses genuine appreciation and gratitude towards a user for help in making the felt doll, which aligns with the whimsical and cheerful portrayal of the doll in the image. The caption does not contain any verbal irony, hyperbole, or understatement but instead reflects a straightforward commentary on the challenge of creating the item and gratitude for assistance, which is consistent with the visual of a homemade creative project. There are no semantic gaps or incongruous visual-textual juxtapositions that would indicate sarcasm.",0,"this was an experience and a half to make ! wouldn 't have even known where to start if it wasnt for <user> , thank you so much \ ( ^ o ^ ) /",NON_SARCASM_CLEAR,"1. **OVERALL SCENE**
+   - The image features a handcrafted felt figure positioned in a workspace setting, possibly on a desk.
+
+2. **OBJECTS & POSITIONS**
+   - **Top-Left**: Part of a computer monitor displaying a blurred image.
+   - **Center**: The felt figure stands prominently.
+   - **Bottom-Right**: A dark surface, possibly a graphics tablet or another part of a desk.
+   - **Foreground**: The felt figure.
+   - **Background**: A computer keyboard and monitor, along with shelving and wall elements.
+
+3. **PEOPLE**
+   - There are no real people; the felt figure resembles a person.
+   - **Expression**: The felt figure has a neutral expression, with large circular eyes and glasses.
+   - **Clothing**: It is dressed in a light blue skirt, a white top with a light blue bow, and pink shoes.
+   - **Position**: Appears to be standing or poised to walk, supported by a wire stand.
+
+4. **TEXT/GRAPHICS**
+   - No visible text or graphics in the image.
+
+5. **COLORS & TONE**
+   - The felt figure features earthy tones for skin, with white, light blue, and pink for clothing.
+   - The setting includes neutral colors, with a strong focus on beige and dark colors in the surrounding workspace.
+   - Overall, the tone is casual and handmade.
+
+6. **IRONY/INCONGRUITY**
+   - The presence of a handcrafted felt figure in a modern workspace may present an incongruity between the traditional craft and the digital work environment."
+820417923344924672,god spends a little extra time on east texas sunsets,0,NOT SARCASM,High,"The caption ""god spends a little extra time on east texas sunsets"" aligns semantically with the image of a vividly colored sunset over East Texas, as described in the image context. The caption suggests admiration for the natural beauty, which is supported by the serene and tranquil scene depicted in the image. While there are mundane elements such as power lines and a road that are considered incongruent, they do not overtly contradict or undermine the beauty of the sunset scene captured. The overall consistency between the caption's praise of the sunset and the scenic sunset image indicates an earnest appreciation rather than sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""god spends a little extra time on east texas sunsets"" aligns semantically with the image of a vividly colored sunset over East Texas, as described in the image context. The caption suggests admiration for the natural beauty, which is supported by the serene and tranquil scene depicted in the image. While there are mundane elements such as power lines and a road that are considered incongruent, they do not overtly contradict or undermine the beauty of the sunset scene captured. The overall consistency between the caption's praise of the sunset and the scenic sunset image indicates an earnest appreciation rather than sarcasm.",0,god spends a little extra time on east texas sunsets,NON_SARCASM_CLEAR,"1. **OVERALL SCENE**: The image captures a sunset view with trees silhouetted against a vibrant sky. The focus is on the dramatic colors of the sunset.
+
+2. **OBJECTS & POSITIONS**: 
+   - Trees: Positioned across the center stretching from left to right.
+   - Road: Visible at the bottom of the image.
+   - Power lines: Cross horizontally through the upper portion of the scene.
+
+3. **PEOPLE**: There are no people present in the image.
+
+4. **TEXT/GRAPHICS**: None present in the image.
+
+5. **COLORS & TONE**: 
+   - The sky displays a gradient of warm colors, including reds, oranges, and yellows transitioning to darker tones.
+   - Silhouettes of trees are in black, adding contrast.
+   - The overall tone is dramatic and serene.
+
+6. **IRONY/INCONGRUITY**: The natural beauty of the sunset and trees is juxtaposed with the presence of power lines, which can be seen as interrupting the natural scene."
+820057813988872192,i 'd like to say thank you ! thank you for following me ! thank you for all of your support ! i appreciate you ! :),0,NOT SARCASM,High,"The caption, which expresses gratitude, perfectly aligns with the image that simply states ""THANK YOU!"" in bold, uppercase text. The image's bright green background with white text enhances this positive expression without any visual or textual incongruity. There is no semantic gap or irony in the post, as both the text and image consistently convey an appreciative message.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The caption, which expresses gratitude, perfectly aligns with the image that simply states ""THANK YOU!"" in bold, uppercase text. The image's bright green background with white text enhances this positive expression without any visual or textual incongruity. There is no semantic gap or irony in the post, as both the text and image consistently convey an appreciative message.",0,i 'd like to say thank you ! thank you for following me ! thank you for all of your support ! i appreciate you ! :),NON_SARCASM_CLEAR,"1. **OVERALL SCENE**: The image presents a simple, solid background with bold text.
+
+2. **OBJECTS & POSITIONS**: The text is centered in the image.
+
+3. **PEOPLE**: There are no people present in this image.
+
+4. **TEXT/GRAPHICS**: The text consists of ""THANK YOU!"" in all capital letters. The text is white.
+
+5. **COLORS & TONE**: The background is a bright green color, creating a high-contrast scene with the white text.
+
+6. **IRONY/INCONGRUITY**: The image uses a bold and emphatic design typically seen in sincere expressions of gratitude. The simplicity and contrast may suggest a straightforward message, leaving room for various interpretations depending on context."
+822589465956851716,better at day ( pt . 2 ) rt + follow to win the ones who shine during the day br pokemon 4 winners get all,0,NOT SARCASM,Medium,"The caption ""better at day (pt. 2) rt + follow to win the ones who shine during the day br pokemon 4 winners get all"" suggests a context of a contest or promotion involving characters associated with daytime attributes. The whimsical and colorful presentation of the cartoon-like characters, with no overt visual or textual contradiction in the image, supports this theme. Although the term ""shine during the day"" could imply unique daytime abilities or features, there is no substantial semantic gap or manifest irony between the caption and the image to indicate sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption ""better at day (pt. 2) rt + follow to win the ones who shine during the day br pokemon 4 winners get all"" suggests a context of a contest or promotion involving characters associated with daytime attributes. The whimsical and colorful presentation of the cartoon-like characters, with no overt visual or textual contradiction in the image, supports this theme. Although the term ""shine during the day"" could imply unique daytime abilities or features, there is no substantial semantic gap or manifest irony between the caption and the image to indicate sarcasm.",0,better at day ( pt . 2 ) rt + follow to win the ones who shine during the day br pokemon 4 winners get all,NON_SARCASM_CLEAR,"1. **OVERALL SCENE**  
+   The image is a collage consisting of four square sections, each containing a cartoon-style creature. The background of the collage is a pattern of colorful polka dots.
+
+2. **OBJECTS & POSITIONS**  
+   - **Top-left:** A cartoon creature with a large pink tongue sticking out and eyes closed.
+   - **Top-right:** A green creature with large ears and a red jewel on its forehead.
+   - **Bottom-left:** A blue, wolf-like creature with a serious expression.
+   - **Bottom-right:** A cartoonish plant-like creature with three heads, resembling coconuts.
+
+3. **PEOPLE**  
+   - There are no people in this image. The focus is on cartoon-style creatures.
+
+4. **TEXT/GRAPHICS**  
+   - There is no visible text or additional graphics in the image apart from the creatures and the polka dot background.
+
+5. **COLORS & TONE**  
+   - The collage features bright and vivid colors: pink, green, blue, yellow, and various shades of brown. The overall tone is playful and vibrant.
+
+6. **IRONY/INCONGRUITY**  
+   - The incongruity might stem from the unusual color schemes or expressions of the creatures compared to typical animal depictions, presenting an unexpected or humorous quality to anyone familiar with these creatures in another context."
+822588129181925380,the face of a man who has been through hell & back ! dealt an injustice so profound he 's a dead man walking ! <user>,1,SARCASM,Medium,"The caption's use of phrases like ""been through hell & back"" and ""dead man walking"" suggest an exaggerated sense of suffering and injustice, which are hyperbolic descriptors not typically used literally. The intended irony likely hinges on a discrepancy between this extreme language and the actual content of the image, which would usually depict a relatively benign or mundane situation failing to justify such dramatics. However, without the actual image description, this analysis depends on common indicators of sarcasm in text.","LABEL: SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption's use of phrases like ""been through hell & back"" and ""dead man walking"" suggest an exaggerated sense of suffering and injustice, which are hyperbolic descriptors not typically used literally. The intended irony likely hinges on a discrepancy between this extreme language and the actual content of the image, which would usually depict a relatively benign or mundane situation failing to justify such dramatics. However, without the actual image description, this analysis depends on common indicators of sarcasm in text.",0,the face of a man who has been through hell & back ! dealt an injustice so profound he 's a dead man walking ! <user>,NON_SARCASM_TRICKY,"1. **OVERALL SCENE**: The image shows a person captured in a dimly lit setting, focusing primarily on the upper body.
+
+2. **OBJECTS & POSITIONS**: The person is centrally positioned, without any prominent objects in the environment, creating a minimalistic background.
+
+3. **PEOPLE**: The individual is a bearded man with long hair, displaying a serious or emotional expression. He is wearing a dark jacket over a gray shirt and is facing slightly upwards.
+
+4. **TEXT/GRAPHICS**: There are no visible text or graphics within the image.
+
+5. **COLORS & TONE**: The color palette consists of muted and dark shades, emphasizing gray and green tones. The overall mood is somber and subdued.
+
+6. **IRONY/INCONGRUITY**: The emotional expression, combined with the somber tones, might suggest a contrast if there is an expected or underlying humorous context elsewhere."
+819686619921776641,# tdu : <user> turns the table on the media at his presser this morning,1,SARCASM,Medium,"The caption ""# tdu : <user> turns the table on the media at his presser this morning"" suggests a dramatic scenario where the individual has taken control or reversed the typical dynamic with the media. However, the image simply portrays a standard media interview setup with a composed cyclist surrounded by focused journalists, showing no visual evidence of overturned relationships or power dynamics, creating a semantic gap between the caption's implication and the predictable visual content.","LABEL: SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption ""# tdu : <user> turns the table on the media at his presser this morning"" suggests a dramatic scenario where the individual has taken control or reversed the typical dynamic with the media. However, the image simply portrays a standard media interview setup with a composed cyclist surrounded by focused journalists, showing no visual evidence of overturned relationships or power dynamics, creating a semantic gap between the caption's implication and the predictable visual content.",0,# tdu : <user> turns the table on the media at his presser this morning,NON_SARCASM_TRICKY,"1. **OVERALL SCENE**  
+   The image shows a press event or interview taking place indoors, possibly at a sports or trade show, where a cyclist is surrounded by reporters and cameras.
+
+2. **OBJECTS & POSITIONS**  
+   - **Top-Left**: A portion of a logo or sign with ""unweb"" visible.
+   - **Center**: A cyclist is the focus, facing the reporters.
+   - **Bottom-Right**: Multiple cameras and microphones pointed at the cyclist.
+   - **Foreground**: Reporters and camera operators.
+   - **Background**: Booth setups with brand logos ""ORICA"" and ""SCOTT""; a person working on equipment.
+
+3. **PEOPLE**  
+   - The cyclist appears calm, wearing a sports jersey with logos.
+   - Reporters and camera operators are attentively focused on the cyclist, holding microphones and cameras.
+
+4. **TEXT/GRAPHICS**  
+   - Brand logos ""ORICA"" and ""SCOTT"" are prominently displayed behind the cyclist.
+   - A visible logo or text on one of the cameras: ""porta brace.""
+
+5. **COLORS & TONE**  
+   - The overall color scheme includes navy blue, white, and green tones.
+   - The lighting is bright and even, typical of indoor events.
+
+6. **IRONY/INCONGRUITY**  
+   - The focused attention on the cyclist by multiple reporters suggests he is of importance, possibly contrasting with his calm demeanor or the location that appears more functional than glamorous."
+822228643346780160,# atticusindepand rt <user> : winter in # ibiza is a great time for meetings ...,1,SARCASM,High,"The caption states, ""winter in # ibiza is a great time for meetings ..."", suggesting a vibrant or busy setting ideal for gatherings. However, the image depicts a solitary figure in an empty parking lot at night, facing a building with ornately decorated rooftops under dramatic, somber lighting. This visually contradicts the lively or suitable meeting setting implied by the caption, creating a semantic misalignment that is characteristic of sarcasm. The incongruity between expecting a bustling atmosphere and the depicted solitude enhances the sarcastic tone.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption states, ""winter in # ibiza is a great time for meetings ..."", suggesting a vibrant or busy setting ideal for gatherings. However, the image depicts a solitary figure in an empty parking lot at night, facing a building with ornately decorated rooftops under dramatic, somber lighting. This visually contradicts the lively or suitable meeting setting implied by the caption, creating a semantic misalignment that is characteristic of sarcasm. The incongruity between expecting a bustling atmosphere and the depicted solitude enhances the sarcastic tone.",0,# atticusindepand rt <user> : winter in # ibiza is a great time for meetings ...,NON_SARCASM_TRICKY,"1. **OVERALL SCENE**
+   - The image depicts a nighttime scene in a parking lot facing a building with bright lights and decorations.
+
+2. **OBJECTS & POSITIONS**
+   - **Foreground:** A large figure of a man is seen from behind, slightly to the left.
+   - **Background:** A building with illuminated decorations on the roof.
+   - **Bottom-right:** Empty parking spaces.
+   - **Center:** Entrance to the building and a parked car.
+
+3. **PEOPLE**
+   - The individual is seen from behind; appears to be wearing a suit. Specific expressions are not visible.
+
+4. **TEXT/GRAPHICS**
+   - The name “Impése” (likely referring to the venue) is visible on the building facade.
+
+5. **COLORS & TONE**
+   - Black and white imagery, creating a dramatic or classic effect.
+
+6. **IRONY/INCONGRUITY**
+   - Potential incongruity may arise from the contrast between the formal appearance of the person and the festive, decorated building."
+822229534976200713,for all the democrats who can 't handle losing because all of those participation trophies they got as kids .,1,SARCASM,High,"The caption ""for all the democrats who can 't handle losing because all of those participation trophies they got as kids"" contains sarcasm through its implication that Democrats are unable to accept electoral defeat, paralleling the notion of receiving ""participation trophies."" The image further amplifies this sarcasm by presenting a flowchart where one can dislike Trump yet still have him as their president, regardless of personal preference — a logical contradiction that plays into the sarcastic framing of the caption by ridiculing the perceived inability to accept outcomes.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""for all the democrats who can 't handle losing because all of those participation trophies they got as kids"" contains sarcasm through its implication that Democrats are unable to accept electoral defeat, paralleling the notion of receiving ""participation trophies."" The image further amplifies this sarcasm by presenting a flowchart where one can dislike Trump yet still have him as their president, regardless of personal preference — a logical contradiction that plays into the sarcastic framing of the caption by ridiculing the perceived inability to accept outcomes.",0,for all the democrats who can 't handle losing because all of those participation trophies they got as kids .,NON_SARCASM_TRICKY,"1. **OVERALL SCENE**: The image is a flowchart related to political affiliation and the presidency.
+
+2. **OBJECTS & POSITIONS**: 
+   - Top-center: Text ""IS DONALD TRUMP YOUR PRESIDENT?""
+   - Center: Question ""ARE YOU A U.S. CITIZEN?"" with arrows branching out.
+   - Bottom-left: Conclusion ""DONALD TRUMP IS NOT YOUR PRESIDENT.""
+   - Bottom-right: Conclusion ""DONALD TRUMP IS YOUR PRESIDENT.""
+
+3. **PEOPLE**: No people are depicted in the image.
+
+4. **TEXT/GRAPHICS**: 
+   - Questions and statements in all caps.
+   - Red arrows connect the text.
+   - Dialogue includes questions about U.S. citizenship, voting preferences, and liking the president.
+
+5. **COLORS & TONE**: 
+   - Text is in black.
+   - Arrows are red.
+   - Background is white.
+   - Overall, the tone is straightforward and logical.
+
+6. **IRONY/INCONGRUITY**: The flowchart uses a logical structure to illustrate different scenarios, yet it presents an oversimplified perspective that contrasts with the complexity of political opinions."
+822588328713289728,"once upon a time when 'sambisa ' was mentioned you thought of tourists , not terrorists ...",1,SARCASM,High,"The caption ""once upon a time when 'sambisa ' was mentioned you thought of tourists, not terrorists ..."" employs verbal irony by juxtaposing historical perception (tourism) with contemporary issues (terrorism). The semantic gap is evident as the image dominantly features search results about the Sambisa Forest Game Reserve in a neutral, informational format, with references to government and travel guides, lacking any terrorist context. This incongruity between the caption's commentary and the image's focus on tourism-related and neutral content clearly signals sarcasm.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""once upon a time when 'sambisa ' was mentioned you thought of tourists, not terrorists ..."" employs verbal irony by juxtaposing historical perception (tourism) with contemporary issues (terrorism). The semantic gap is evident as the image dominantly features search results about the Sambisa Forest Game Reserve in a neutral, informational format, with references to government and travel guides, lacking any terrorist context. This incongruity between the caption's commentary and the image's focus on tourism-related and neutral content clearly signals sarcasm.",0,"once upon a time when 'sambisa ' was mentioned you thought of tourists , not terrorists ...",NON_SARCASM_TRICKY,"1. **OVERALL SCENE**  
+   The image shows a screenshot of a web search result page for ""Sambisa Forest Game Reserve.""
+
+2. **OBJECTS & POSITIONS**  
+   - **Top-left**: The search bar with the query “sambisa forest game reserve.”
+   - **Center**: Two search result entries.
+     - First result: Title about government estimates, a snippet from a book, publication year 1990.
+     - Second result: Travel guide, a snippet from a book, publication year 1993.
+   - **Bottom-right**: N/A
+   - **Foreground/Background**: White background typical of search results pages.
+
+3. **PEOPLE**  
+   No people are present in the image.
+
+4. **TEXT/GRAPHICS**  
+   - First result: “Estimates of the Government of Borno State of Nigeria - Page 14.”
+     - Snippet: Mentions development for tourism.
+   - Second result: “Enjoy Nigeria: a travel guide - Page 124.”
+     - Snippet: Mentions contacting the Chief Wildlife Officer for visits.
+
+5. **COLORS & TONE**  
+   - Predominantly white background with black text.
+   - Blue hyperlinks.
+   - Green URLs.
+
+6. **IRONY/INCONGRUITY**  
+   The search results discuss development and tourism in the Sambisa Forest, an area associated with different modern contexts, which may contrast with current or public perceptions."

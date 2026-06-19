@@ -1,0 +1,539 @@
+image_id,caption,true_label,pred_label,label_text,confidence,reason,image_description,classifier_output,raw_crew_output
+816796252159537156,"sometimes , people must climb to the top of 23,000 gallon fermenters to fix issues in the middle of winter . we call these people # heroes .",0,0,NOT SARCASM,Medium,"The post highlights the challenging work of individuals who handle maintenance tasks in harsh winter conditions, calling them ""heroes."" This description aligns more with genuine admiration and acknowledgment of difficult work rather than sarcasm. While the use of ""#heroes"" might initially signal exaggeration, the context of the caption and the industrial image featuring cold, snowy conditions support a sincere acknowledgment of their efforts.","## OVERALL SCENE
+The image captures an industrial outdoor setting featuring a series of metal tanks or silos with a network of railings and walkways. The setting appears to be a storage or processing facility, possibly for liquids.
+
+## OBJECTS & POSITIONS
+- **Foreground**: A large circular metal tank surface, lightly dusted with snow.
+- **Center**: A long walkway lined with metal railings runs the length of the image, leading toward the distance.
+- **Top-Left**: Bare trees and possibly more industrial structures.
+- **Top-Right**: Bare trees and additional facility buildings or infrastructure.
+- **Background**: A line of trees and some facility lights can be seen through the railing.
+
+## PEOPLE
+- **None**: There are no people visible in the image.
+
+## TEXT / GRAPHICS
+- **None**: There is no text or graphical element present in the image.
+
+## COLORS & TONE
+- **Colors**: Predominantly cold tones with steel gray dominating due to the metal structures. The scene has a light dusting of white (snow) on the tank surfaces.
+- **Tone**: The overall tone is cold and industrial, with a muted, overcast sky contributing to a somber or tranquil atmosphere.
+
+## IRONY / INCONGRUITY
+- **Incongruity**: The presence of snow on industrial equipment contrasts with the assumption of warm, bustling activity typically associated with such settings. The quiet and still atmosphere may contrast with the expected nature of an industrial facility, where activity and noise are standard.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post highlights the challenging work of individuals who handle maintenance tasks in harsh winter conditions, calling them ""heroes."" This description aligns more with genuine admiration and acknowledgment of difficult work rather than sarcasm. While the use of ""#heroes"" might initially signal exaggeration, the context of the caption and the industrial image featuring cold, snowy conditions support a sincere acknowledgment of their efforts.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post highlights the challenging work of individuals who handle maintenance tasks in harsh winter conditions, calling them ""heroes."" This description aligns more with genuine admiration and acknowledgment of difficult work rather than sarcasm. While the use of ""#heroes"" might initially signal exaggeration, the context of the caption and the industrial image featuring cold, snowy conditions support a sincere acknowledgment of their efforts."
+818603171480215552,oops ! i think i dont need a challenge,0,0,NOT SARCASM,Medium,"The caption ""oops ! i think i dont need a challenge"" paired with the image of five women at an indoor gathering with positive expressions and varied styles appears more like a playful or whimsical statement rather than an expression of sarcasm. The caption could imply a light-hearted acknowledgment of not needing further excitement or challenge in the current upbeat setting. The visual evidence of camaraderie and celebration supports a genuine atmosphere, leaning towards a non-sarcastic interpretation.","### 1. OVERALL SCENE
+The scene takes place indoors, likely in a room with muted lighting. The setting appears casual yet coordinated for a group social event or gathering.
+
+### 2. OBJECTS & POSITIONS
+- **Top-left**: Part of a framed picture and a wall.
+- **Center**: Group of five individuals standing closely together, posing for the camera.
+- **Bottom-right**: Part of a patterned carpet is visible.
+- **Foreground**: The group of women.
+- **Background**: Wall with decorative elements like hexagonal mirrors, a doorway, and a table partially visible with items on it.
+
+### 3. PEOPLE
+- **Position**: Five women standing in a line.
+- **Expression**: Generally positive, with smiles and relaxed poses.
+- **Clothing**: 
+  - Different styles, from patterned dresses to crop tops and leather jackets.
+- **Emotion**: The expressions suggest a sense of camaraderie or celebration.
+
+### 4. TEXT / GRAPHICS
+- No discernible text or graphics within the image itself.
+
+### 5. COLORS & TONE
+- **Colors**: Predominantly dark shades and metallics with pops of color like red.
+- **Tone**: The lighting is soft, contributing to a warm, intimate atmosphere.
+
+### 6. IRONY / INCONGRUITY
+- The individuals appear to have varied styles, which could contrast with the uniformity expected in group photos.
+- Each person's unique style highlights individuality within a group setting.
+
+This detailed description focuses purely on the visual elements present in the image without interpreting the tone or intent for sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption ""oops ! i think i dont need a challenge"" paired with the image of five women at an indoor gathering with positive expressions and varied styles appears more like a playful or whimsical statement rather than an expression of sarcasm. The caption could imply a light-hearted acknowledgment of not needing further excitement or challenge in the current upbeat setting. The visual evidence of camaraderie and celebration supports a genuine atmosphere, leaning towards a non-sarcastic interpretation.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption ""oops ! i think i dont need a challenge"" paired with the image of five women at an indoor gathering with positive expressions and varied styles appears more like a playful or whimsical statement rather than an expression of sarcasm. The caption could imply a light-hearted acknowledgment of not needing further excitement or challenge in the current upbeat setting. The visual evidence of camaraderie and celebration supports a genuine atmosphere, leaning towards a non-sarcastic interpretation."
+822956565955223555,build kindness not walls,0,0,NOT SARCASM,Medium,"The post features a straightforward message advocating for ""kindness"" over ""walls,"" which does not inherently suggest irony or sarcasm. The woman's neutral or serious expression contrasts with the message of kindness, but this could be attributed to the seriousness of the issue being addressed. The vibrant colors of the text emphasize positivity, and despite the potential for political undertone, there isn’t sufficient evidence to conclude sarcasm over genuine advocacy. Therefore, the overall tone leans more towards a sincere message.","## OVERALL SCENE
+The image depicts a street setting, likely in an urban area. A young woman stands prominently in the foreground, holding a sign. The scene includes a sidewalk with a few pedestrians and some urban infrastructure in the background, including tall buildings and a streetlamp.
+
+## OBJECTS & POSITIONS
+- **Top-Left**: Part of a tall building and a streetlight.
+- **Center**: A young woman is holding a sign with both hands.
+- **Bottom-Right**: Black bike racks and stairs with a metal railing.
+- **Foreground**: The woman, sign, and a section of the sidewalk.
+- **Background**: Tall buildings, a stone wall, pedestrians, and moving vehicles on the road.
+
+## PEOPLE
+- **Position**: The main person is in the center of the image.
+- **Expression**: She looks directly at the camera with a neutral or serious expression.
+- **Clothing**: Wears a light pink sweater, ripped light blue jeans, and black sneakers. She has a turquoise backpack.
+- **Emotion**: Her neutral expression suggests calmness or possibly mild discontent.
+
+## TEXT / GRAPHICS
+- **Text on Sign**: ""Build KINDNESS not WALLS."" The word ""KINDNESS"" is in colorful, capital letters and larger than the other words.
+- **Text Position**: The sign is positioned diagonally due to the way it's held.
+  
+## COLORS & TONE
+- **Color Scheme**: The sign features vibrant colors (blue, yellow, red, green) for the word ""KINDNESS."" The woman’s clothes are in pastel shades, with light blue and pink as dominant colors.
+- **Tone**: Overall, the colors contrast with urban, muted tones of the background (gray, beige, and other earth tones).
+
+## IRONY / INCONGRUITY
+- The sign's message promoting ""kindness"" contrasts with the serious or neutral facial expression of the person holding it.
+- The colorful letters of the word ""KINDNESS"" stand out against the gray urban landscape, creating a visual contrast.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post features a straightforward message advocating for ""kindness"" over ""walls,"" which does not inherently suggest irony or sarcasm. The woman's neutral or serious expression contrasts with the message of kindness, but this could be attributed to the seriousness of the issue being addressed. The vibrant colors of the text emphasize positivity, and despite the potential for political undertone, there isn’t sufficient evidence to conclude sarcasm over genuine advocacy. Therefore, the overall tone leans more towards a sincere message.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post features a straightforward message advocating for ""kindness"" over ""walls,"" which does not inherently suggest irony or sarcasm. The woman's neutral or serious expression contrasts with the message of kindness, but this could be attributed to the seriousness of the issue being addressed. The vibrant colors of the text emphasize positivity, and despite the potential for political undertone, there isn’t sufficient evidence to conclude sarcasm over genuine advocacy. Therefore, the overall tone leans more towards a sincere message."
+821505954566934528,i hope that new day all over the world will be calm and that all people can spend with a gentle heart,0,0,NOT SARCASM,High,"The post presents a sincere expression of hope for global peace and harmony, aligning with the serene and peaceful imagery of a solitary tree on a snowy hill. The tranquil landscape complements the hopeful and genuine tone of the caption, similar to clear non-sarcasm examples where the imagery supports the sincerity of the message, such as in Example 12 with the Texas sunset. The post lacks any signs of irony, sarcasm, or incongruity, indicating a straightforward, genuine sentiment.","# OVERALL SCENE
+The image depicts a serene and minimalistic landscape, featuring a lone tree on a snowy hill beneath a clear sky. The scene is tranquil and simplistic, focusing on the natural beauty and contrast between the snow-covered ground and the open sky.
+
+# OBJECTS & POSITIONS
+- **Tree**: Positioned slightly off-center to the right on top of the hill.
+- **Snowy Hill**: Located in the foreground and stretches across the image, appearing smooth and untouched.
+- **Sky**: Dominates the background, taking up the upper two-thirds of the image.
+
+# PEOPLE
+- There are no people present in this image.
+
+# TEXT / GRAPHICS
+- There is no text or graphics in the image.
+
+# COLORS & TONE
+- **Sky**: Transitions from a light pinkish hue at the horizon to a deep blue at the top, indicating either sunrise or sunset.
+- **Snow**: Appears pure white with slight hints of the colors from the sky reflected on its surface.
+- **Overall Tone**: The image has a calm and peaceful ambiance due to its soft color palette and minimal elements.
+
+# IRONY / INCONGRUITY
+- The solitary tree on a vast, empty hill might suggest themes of isolation or solitude. 
+- The expansive sky and open space may contrast with the singular presence of the tree, highlighting its loneliness or resilience.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The post presents a sincere expression of hope for global peace and harmony, aligning with the serene and peaceful imagery of a solitary tree on a snowy hill. The tranquil landscape complements the hopeful and genuine tone of the caption, similar to clear non-sarcasm examples where the imagery supports the sincerity of the message, such as in Example 12 with the Texas sunset. The post lacks any signs of irony, sarcasm, or incongruity, indicating a straightforward, genuine sentiment.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The post presents a sincere expression of hope for global peace and harmony, aligning with the serene and peaceful imagery of a solitary tree on a snowy hill. The tranquil landscape complements the hopeful and genuine tone of the caption, similar to clear non-sarcasm examples where the imagery supports the sincerity of the message, such as in Example 12 with the Texas sunset. The post lacks any signs of irony, sarcasm, or incongruity, indicating a straightforward, genuine sentiment."
+883010245932527616,when your sibling is getting scolded and you know you are next,1,0,NOT SARCASM,High,"The post illustrates a relatable, humorous scenario rather than sarcasm. The image of the boy with eyes closed in a prayer-like gesture visually conveys genuine anxiety, aligning with the caption about anticipating a scolding. The exaggerated, yet familiar reaction is sincere in expressing tension with lighthearted humor, suggesting a genuine depiction rather than sarcasm.","# OVERALL SCENE
+The image depicts a young person in an indoor setting, seemingly involved in an emotional or humorous situation. The setting appears to be a room with basic furniture and fixtures visible.
+
+# OBJECTS & POSITIONS
+- **Top-Left**: A portion of a door or closet can be seen, along with a small object resembling a cup or container.
+- **Center**: The main focus is a boy with a blanket draped over his shoulders.
+- **Bottom-Right**: Partial view of a chair or bed, with a pillow or cushion in red or dark color.
+- **Background**: A vent or air conditioning unit is visible on the wall.
+
+# PEOPLE
+- **Position**: In the center, facing the camera.
+- **Expression**: Eyes closed with hands clasped together, resembling a pleading or prayer-like gesture.
+- **Clothing**: Wearing a dark T-shirt with a light-colored blanket covered in a floral pattern.
+- **Emotion**: Suggests anxiety or hopefulness.
+
+# TEXT / GRAPHICS
+- **Top Text**: ""WHEN YOUR SIBLING IS GETTING SCOLDED""
+- **Bottom Text**: ""AND YOU KNOW YOU ARE NEXT""
+- **Font**: Bold, white block letters with a black outline for emphasis.
+
+# COLORS & TONE
+- **Colors**: The room has muted colors, mainly off-white and beige. The blanket is light with blue floral patterns. The red or dark cushion/chair adds contrast.
+- **Tone**: Overall lighting is soft and indoor, providing a casual, realistic look.
+
+# IRONY / INCONGRUITY
+- The serious or hopeful prayer-like expression of the person contrasts with the humor implied by the text about an impending scolding. The gesture may not typically be associated with such a scenario, adding a layer of humor through exaggeration.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The post illustrates a relatable, humorous scenario rather than sarcasm. The image of the boy with eyes closed in a prayer-like gesture visually conveys genuine anxiety, aligning with the caption about anticipating a scolding. The exaggerated, yet familiar reaction is sincere in expressing tension with lighthearted humor, suggesting a genuine depiction rather than sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: The post illustrates a relatable, humorous scenario rather than sarcasm. The image of the boy with eyes closed in a prayer-like gesture visually conveys genuine anxiety, aligning with the caption about anticipating a scolding. The exaggerated, yet familiar reaction is sincere in expressing tension with lighthearted humor, suggesting a genuine depiction rather than sarcasm."
+816578051744141312,". <user> another "" great "" month for",1,1,SARCASM,Medium,"The caption "". <user> another "" great "" month for"" uses quotation marks around ""great,"" suggesting a sarcastic tone about the quality of the game lineup. The image, showcasing free games despite previous prices, adds an element of irony that aligns with the sarcastic interpretation. The reference to months and repeated phrasing points to ongoing dissatisfaction or irony regarding the perceived value or selection of the offered games.","## OVERALL SCENE
+The image displays a digital interface, specifically a PlayStation Plus lineup screen showcasing games available for the month. This is likely a screenshot from a PlayStation console, highlighting the games accessible to subscribers.
+
+## OBJECTS & POSITIONS
+- **Top-left:** PlayStation Store logo and search/cart icons.
+- **Top-center:** PlayStation Plus branding and tagline, ""This month's line-up.""
+- **Top-right:** Options like ""Monthly Games"" and a numeral (5).
+- **Center/Background:** Options for ""Exclusive Discounts,"" ""Top Games To Play Online,"" and ""Renew Your Membership.""
+- **Center/Foreground:** An ""Add Filter"" bar followed by cover images of six games organized in two rows.
+- **Bottom-left/right:** Game titles and their details, including availability and price.
+
+## PEOPLE
+- No real people are present. Characters in game cover art are illustrated or digitally rendered, showing various styles fitting each game's theme.
+
+## TEXT / GRAPHICS
+- The primary text includes game titles like ""Day of the Tentacle Remastered"" and ""This War of Mine: The Little Ones.""
+- Pricing information is displayed, with most games marked as ""Free,"" while some have a previous price shown (e.g., ""£11.99"").
+- Icons, such as a yellow cart, indicate purchase or availability.
+
+## COLORS & TONE
+- Dominant color is blue with light and dark gradients, providing a cohesive background.
+- Game covers introduce a variety of colors, indicative of their unique themes.
+- Text is primarily white with some green and yellow used for pricing and availability indicators.
+
+## IRONY / INCONGRUITY
+- There is a potential incongruity between the availability of games labeled ""Free"" and the presence of a previous price, hinting at a promotional offer or exclusivity for subscribers.
+- The text and graphics emphasize a premium selection despite a theme of free accessibility, a common marketing strategy.","LABEL: SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption "". <user> another "" great "" month for"" uses quotation marks around ""great,"" suggesting a sarcastic tone about the quality of the game lineup. The image, showcasing free games despite previous prices, adds an element of irony that aligns with the sarcastic interpretation. The reference to months and repeated phrasing points to ongoing dissatisfaction or irony regarding the perceived value or selection of the offered games.","LABEL: SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption "". <user> another "" great "" month for"" uses quotation marks around ""great,"" suggesting a sarcastic tone about the quality of the game lineup. The image, showcasing free games despite previous prices, adds an element of irony that aligns with the sarcastic interpretation. The reference to months and repeated phrasing points to ongoing dissatisfaction or irony regarding the perceived value or selection of the offered games."
+822950699185139716,"packers alumni don majkowski , ezra johnson & david whitehurst at the packeverywhere pep rally in atl !",0,0,NOT SARCASM,High,"This post describes a sports event with former Packers players attending a pep rally. The image context shows a social and casual gathering with people engaged in conversation, which aligns with the straightforward nature typical of NOT SARCASM examples. Despite the presence of humorous or rhetorical elements in some phrasing, the genuine engagement with the audience and the celebratory nature do not imply sarcasm. The vibrant and lively atmosphere supports the notion that this is a sincere and enthusiastic post rather than sarcasm.","1. **OVERALL SCENE**
+   - The scene takes place inside a tent-like structure, with people seated and standing, appearing to engage in a conversation or event. The setting suggests a casual and social gathering.
+
+2. **OBJECTS & POSITIONS**
+   - **Top-Left**: Part of the tent structure is visible with glowing green lights.
+   - **Center**: Three seated individuals, each holding or positioned near a microphone.
+   - **Bottom-Right**: A person partially visible, seated with turned posture.
+   - **Foreground**: The focus is on the seated individuals engaging in discussion with microphones in hand.
+   - **Background**: A large banner is hung up on the tent wall.
+
+3. **PEOPLE**
+   - **Left Person**: Standing with a microphone, casual posture, wearing a green shirt, neutral expression.
+   - **Center Person**: Seated, holding a microphone, listening intently, wearing casual attire, facial expression appears focused.
+   - **Right Person**: Seated with microphone, speaking, casual attire, appears engaged with a slight smile.
+   - **Expression/Emotion**: General expressions suggest attentiveness and engagement among the participants, with a casual and sociable environment.
+
+4. **TEXT / GRAPHICS**
+   - A banner is prominently displayed, featuring text “PACKERS EVERYWHERE” and “GO PACK”.
+   - Logos and other minor text are visible, indicating the theme related to sports or a sports team.
+
+5. **COLORS & TONE**
+   - The scene is dominated by green lighting, casting a green hue over people and objects, likely intentional for thematic purposes.
+   - The overall tone is vibrant, giving a lively and energetic atmosphere to the scene.
+
+6. **IRONY / INCONGRUITY**
+   - No overt irony or incongruity is inherently visible in the image; however, the green lighting adds an unusual element, contrasting with the typical lighting expected in indoor events.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: This post describes a sports event with former Packers players attending a pep rally. The image context shows a social and casual gathering with people engaged in conversation, which aligns with the straightforward nature typical of NOT SARCASM examples. Despite the presence of humorous or rhetorical elements in some phrasing, the genuine engagement with the audience and the celebratory nature do not imply sarcasm. The vibrant and lively atmosphere supports the notion that this is a sincere and enthusiastic post rather than sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: High  
+REASON: This post describes a sports event with former Packers players attending a pep rally. The image context shows a social and casual gathering with people engaged in conversation, which aligns with the straightforward nature typical of NOT SARCASM examples. Despite the presence of humorous or rhetorical elements in some phrasing, the genuine engagement with the audience and the celebratory nature do not imply sarcasm. The vibrant and lively atmosphere supports the notion that this is a sincere and enthusiastic post rather than sarcasm."
+820409677011976194,dooooope,0,0,NOT SARCASM,Medium,"The caption ""dooooope"" is slang typically expressing genuine enthusiasm or approval, which corresponds with the serene and visually captivating beach setting at sunset. Unlike sarcastic examples, there is no inherent irony or incongruity between the caption and the image. The use of extended vowels suggests a casual and authentic excitement rather than sarcasm.","### 1. OVERALL SCENE
+The image depicts a beach setting during sunset or twilight. The scene is a combination of natural elements like palm trees and the ocean, along with man-made structures like a building, likely a restaurant, with outdoor seating.
+
+### 2. OBJECTS & POSITIONS
+- **Top-Left:** A large palm tree dominates this corner, its leaves extending outwards.
+- **Center:** The horizon of the ocean, with a clear view of the sunset.
+- **Bottom-Right:** A group of people standing on the beach.
+- **Foreground:** The building with visible lights and seating, mostly on the lower-left side.
+- **Background:** The ocean and sky, transitioning from day to night with remaining sunlight.
+
+### 3. PEOPLE
+- **Position:** Situated on the beach, towards the bottom-right.
+- **Expression:** Indistinct due to distance, appearing as silhouettes.
+- **Clothing:** Indistinct, with the focus being on their presence rather than detail.
+- **Emotion:** The group seems to be relaxed, likely enjoying the view or engaging socially.
+
+### 4. TEXT / GRAPHICS
+There is no visible text or graphics in the image.
+
+### 5. COLORS & TONE
+- The tones are mainly cool with shades of blue and purple in the sky.
+- Warm lights from the building provide a contrast.
+- A gradient of yellow and orange is present on the horizon where the sun is setting.
+
+### 6. IRONY / INCONGRUITY
+- The peaceful beach setting combined with a busy establishment suggests a blend of relaxation and activity.
+- The juxtaposition of natural beauty with human gathering may present a contrast between isolation and socialization.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption ""dooooope"" is slang typically expressing genuine enthusiasm or approval, which corresponds with the serene and visually captivating beach setting at sunset. Unlike sarcastic examples, there is no inherent irony or incongruity between the caption and the image. The use of extended vowels suggests a casual and authentic excitement rather than sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption ""dooooope"" is slang typically expressing genuine enthusiasm or approval, which corresponds with the serene and visually captivating beach setting at sunset. Unlike sarcastic examples, there is no inherent irony or incongruity between the caption and the image. The use of extended vowels suggests a casual and authentic excitement rather than sarcasm."
+822585200303570945,bon week-end les amis ...,0,0,NOT SARCASM,Medium,"The post features an inspirational quote from Henry James about living the life one imagines, presented in a minimalistic and stark design. Although the somber presentation might suggest a potential for sarcasm, the combination with a well-known aspirational quote and the caption ""bon week-end les amis ..."" conveys a genuine wish for a good weekend, making it more likely sincere rather than sarcastic. The absence of any clear irony or incongruity between the caption and the depicted message supports this classification.","1. **OVERALL SCENE**
+   - The image is a simple graphic design with a focus on text presented against a dark background.
+
+2. **OBJECTS & POSITIONS**
+   - **Center**: The main body of text is located centrally. 
+   - **Bottom-left**: Two lines of smaller text are situated near the bottom-left corner.
+
+3. **PEOPLE**
+   - There are no people present in the image.
+
+4. **TEXT / GRAPHICS**
+   - **Center Text**: ""IL EST TEMPS DE VIVRE LA VIE QUE TU T’ES IMAGINÉE.""
+   - **Bottom-left Text**: ""Henry James"" followed by smaller text, ""les temps sont durs pour les rêveurs.""
+
+5. **COLORS & TONE**
+   - The background is solid black.
+   - The text color is white, providing a stark contrast with the background for readability.
+   - The overall tone is minimalistic and stark.
+
+6. **IRONY / INCONGRUITY**
+   - There is a potential incongruity between the inspirational message about living an imagined life and the stark, somber design choice, which could suggest a deeper or alternative interpretation.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post features an inspirational quote from Henry James about living the life one imagines, presented in a minimalistic and stark design. Although the somber presentation might suggest a potential for sarcasm, the combination with a well-known aspirational quote and the caption ""bon week-end les amis ..."" conveys a genuine wish for a good weekend, making it more likely sincere rather than sarcastic. The absence of any clear irony or incongruity between the caption and the depicted message supports this classification.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post features an inspirational quote from Henry James about living the life one imagines, presented in a minimalistic and stark design. Although the somber presentation might suggest a potential for sarcasm, the combination with a well-known aspirational quote and the caption ""bon week-end les amis ..."" conveys a genuine wish for a good weekend, making it more likely sincere rather than sarcastic. The absence of any clear irony or incongruity between the caption and the depicted message supports this classification."
+883478526476914689,good to see <user> is starting to present both sides of the stories ! excellent job guys !,1,1,SARCASM,High,"The caption sarcastically praises the user for presenting ""both sides of the stories"" when the accompanying infographic contrasts Trump's policies against those of other countries, suggesting one-sidedness. The image's presentation style, with its focus on Trump's contentious approaches and international opposition, underscores the caption's ironic tone. The incongruity between the graphical analysis and the praise in the caption strongly indicates sarcasm.","## OVERALL SCENE
+The image is structured as an infographic from CNN Politics, divided into two main sections: ""CLIMATE CHANGE"" and ""TRADE,"" each containing comparisons between Trump's approach and countries that clash with it.
+
+## OBJECTS & POSITIONS
+- **Top-left:** CNN Politics logo.
+- **Center:** Two sections titled ""CLIMATE CHANGE"" and ""TRADE.""
+- **Bottom-right:** Various national flags representing countries.
+- **Background:** A white background with text and graphics.
+
+## PEOPLE
+- **Position:** Top of each section, on the left side.
+- **Expression:** The person is shown gesturing with hands, possibly explaining or presenting.
+- **Clothing:** Dressed in a black suit with a white shirt.
+- **Emotion:** The expression is neutral, focused on the act of communication.
+
+## TEXT / GRAPHICS
+- **Section Titles:** ""CLIMATE CHANGE"" and ""TRADE"" in bold.
+- **Text:** Descriptive text detailing Trump's approach to climate change and trade.
+- **Graphics:** Flags of various countries in opposition to the described policies.
+- **Boxes:** Orange boxes labeled ""Trump's approach"" juxtaposed with another section labeled ""Clashes with.""
+
+## COLORS & TONE
+- **Primary Colors:** Orange, black, and white dominate the text areas, with multicolored flags adding contrast.
+- **Tone:** Informative with a professional presentation style typical of news infographics.
+
+## IRONY / INCONGRUITY
+- The graphical representation juxtaposes Trump's unilateral actions with the reactions of multiple countries, potentially highlighting the contentious or controversial nature of his policies.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption sarcastically praises the user for presenting ""both sides of the stories"" when the accompanying infographic contrasts Trump's policies against those of other countries, suggesting one-sidedness. The image's presentation style, with its focus on Trump's contentious approaches and international opposition, underscores the caption's ironic tone. The incongruity between the graphical analysis and the praise in the caption strongly indicates sarcasm.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption sarcastically praises the user for presenting ""both sides of the stories"" when the accompanying infographic contrasts Trump's policies against those of other countries, suggesting one-sidedness. The image's presentation style, with its focus on Trump's contentious approaches and international opposition, underscores the caption's ironic tone. The incongruity between the graphical analysis and the praise in the caption strongly indicates sarcasm."
+820050594064990208,0x7fbfbd,0,0,NOT SARCASM,Medium,"The post features a cryptic caption ""0x7fbfbd"" and an image devoid of any content, which initially suggests an ironic intent due to its emptiness. However, without contextual cues or a known ironic reference, it does not establish clear sarcasm on its own. The absence of explicit incongruity or irony found in labeled sarcasm examples suggests it might simply be a quirky or technical post without sarcastic intent. Thus, I lean towards it being NOT SARCASM, in line with the guidance to avoid over-labeling when uncertain.","OVERALL SCENE: The image is a singular solid turquoise color, with no discernible scene or background elements present. 
+
+OBJECTS & POSITIONS: There are no objects within the image; it is simply a uniform block of color without spatial differentiation.
+
+PEOPLE: There are no people depicted in the image.
+
+TEXT/GRAPHICS: The image contains no text, graphics, symbols, or any form of written or visual communication.
+
+COLORS & TONE: The entire image is a flat turquoise color, lacking any variation, shading, or gradient tones.
+
+IRONY/INCONGRUITY: The absence of content, despite being presented as an image, could be seen as an ironic statement on the nature of image expectations versus reality. The lack of any visual components might itself suggest sarcasm if intended to convey a message through absence.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post features a cryptic caption ""0x7fbfbd"" and an image devoid of any content, which initially suggests an ironic intent due to its emptiness. However, without contextual cues or a known ironic reference, it does not establish clear sarcasm on its own. The absence of explicit incongruity or irony found in labeled sarcasm examples suggests it might simply be a quirky or technical post without sarcastic intent. Thus, I lean towards it being NOT SARCASM, in line with the guidance to avoid over-labeling when uncertain.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post features a cryptic caption ""0x7fbfbd"" and an image devoid of any content, which initially suggests an ironic intent due to its emptiness. However, without contextual cues or a known ironic reference, it does not establish clear sarcasm on its own. The absence of explicit incongruity or irony found in labeled sarcasm examples suggests it might simply be a quirky or technical post without sarcastic intent. Thus, I lean towards it being NOT SARCASM, in line with the guidance to avoid over-labeling when uncertain."
+822225727550607362,"after the killings of # philandocastile , # altonsterling & then two ofcrs . unending admiration for how pres obama handled this tense meeting .",0,0,NOT SARCASM,Low,"Without the image description, determining sarcasm relies heavily on the caption's tone. The caption praises President Obama for handling a serious situation, which may seem sincere. However, due to the lack of context from the image, there's uncertainty about potential sarcasm. Absence of clear textual irony and recognition of the genuine nature of tricky non-sarcasm posts guide the decision.","I was unable to retrieve the image description for image_id='822225727550607362'. If you have another image or task, feel free to let me know!","LABEL: NOT SARCASM  
+CONFIDENCE: Low  
+REASON: Without the image description, determining sarcasm relies heavily on the caption's tone. The caption praises President Obama for handling a serious situation, which may seem sincere. However, due to the lack of context from the image, there's uncertainty about potential sarcasm. Absence of clear textual irony and recognition of the genuine nature of tricky non-sarcasm posts guide the decision.","LABEL: NOT SARCASM  
+CONFIDENCE: Low  
+REASON: Without the image description, determining sarcasm relies heavily on the caption's tone. The caption praises President Obama for handling a serious situation, which may seem sincere. However, due to the lack of context from the image, there's uncertainty about potential sarcasm. Absence of clear textual irony and recognition of the genuine nature of tricky non-sarcasm posts guide the decision."
+832320772295237636,stop breathing ! p . s . : this reminds of a lot of health advice i see nowadays .,1,1,SARCASM,High,"The caption and image text suggest a satirical tone by drawing a humorous yet absurd comparison between rust on metal and health advice about oxygen, a vital element for human life. The text combines an exaggerated cautionary message with an ironic warning to ""share to increase awareness of oxygen,"" highlighting the incongruity typical of sarcasm. The overall presentation matches labeled examples showing clear sarcasm through an apparent contradiction in meaning.","**1. OVERALL SCENE**
+
+The image primarily features a close-up of a rusted metal pipe. The focus is on the texture and corrosion of the rust, set against a soft green background. Text overlays are present at the top and bottom of the image.
+
+**2. OBJECTS & POSITIONS**
+
+- **Top-Left**: Rusted section of a metal pipe.
+- **Center**: The main focus is on the rust textures and details of the pipe.
+- **Bottom-Right**: Continuation of the rusted surface of the pipe.
+- **Foreground**: The rusted pipe dominates the foreground.
+- **Background**: A blurred green surface, possibly suggesting an outdoor or natural setting.
+
+**3. PEOPLE**
+
+No people are present in this image.
+
+**4. TEXT / GRAPHICS**
+
+- **Top Text**: “THIS IS RUST. RUST IS CAUSED BY OXYGEN.”
+- **Bottom Text**: “YOU BREATHE OXYGEN EVERY DAY. IF OXYGEN DOES THIS TO A PIPE, WHAT IS IT DOING TO YOUR LUNGS? PLEASE SHARE TO INCREASE THE AWARENESS OF OXYGEN.”
+
+The text is in capital letters and is a bold white font that contrasts with the rust and background.
+
+**5. COLORS & TONE**
+
+- **Rust**: Various shades of brown, red, and orange.
+- **Background**: Pale green, providing a soft contrast to the rust.
+- **Overall Tone**: The image has an earthy, aged aesthetic due to the rust colors, while the text provides a stark, white contrast.
+
+**6. IRONY / INCONGRUITY**
+
+The text juxtaposes the harmful effects of oxygen on metal with the necessity of oxygen for human life, suggesting a misleading cause for concern. The serious tone of the message creates an incongruity with the scientific understanding of oxygen and human health.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption and image text suggest a satirical tone by drawing a humorous yet absurd comparison between rust on metal and health advice about oxygen, a vital element for human life. The text combines an exaggerated cautionary message with an ironic warning to ""share to increase awareness of oxygen,"" highlighting the incongruity typical of sarcasm. The overall presentation matches labeled examples showing clear sarcasm through an apparent contradiction in meaning.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption and image text suggest a satirical tone by drawing a humorous yet absurd comparison between rust on metal and health advice about oxygen, a vital element for human life. The text combines an exaggerated cautionary message with an ironic warning to ""share to increase awareness of oxygen,"" highlighting the incongruity typical of sarcasm. The overall presentation matches labeled examples showing clear sarcasm through an apparent contradiction in meaning."
+823317653435486208,""" your pilau and good lord your forehead ... where are you from "" me :",1,0,NOT SARCASM,Medium,"The post uses a quirky and exaggerated visual by replacing a common action like sprinkling salt with Kenyan flags, which adds a humorous and playful tone. This mirrors examples with hyperbolic yet sincere statements, often seen in NOT SARCASM posts (Example 15). The action and expression are more related to cultural pride or jest rather than sarcasm, as the tone does not indicate a clear or subtle irony.","### 1. OVERALL SCENE
+The scene depicts an individual engaging in a characteristic pose, seemingly while sprinkling a substance. The environment appears to be outdoors or near a window, suggested by natural lighting. The person is in a dynamic pose, emphasizing their action.
+
+### 2. OBJECTS & POSITIONS
+- **Top-Left:** Empty space with light reflections possibly indicating natural lighting through a window.
+- **Center:** The individual is prominently positioned, tilting slightly forward with an arm raised.
+- **Bottom-Right:** Arm motion trails created by multiple small flag icons form a line extending downward.
+
+### 3. PEOPLE
+- **Position:** The person is center-left, facing slightly downward.
+- **Expression:** The individual has a focused or confident expression, wearing sunglasses.
+- **Clothing:** White fitted T-shirt, visible watch on the wrist, hairstyling suggests a slicked-back look.
+- **Emotion:** The posture and gesture convey a sense of flair or flamboyance.
+
+### 4. TEXT / GRAPHICS
+- **Graphics:** Several Kenyan flags are digitally superimposed in a trail following the line of the arm, mimicking the effect of something being sprinkled.
+
+### 5. COLORS & TONE
+- **Colors:** Predominantly neutral and natural tones in the background; the clothing is white which contrasts with the skin tone. Flags are vivid, featuring red, green, white, and black, drawing attention to the action.
+- **Tone:** The image uses a combination of realistic tones with digitally added bright colors to alter the focus.
+
+### 6. IRONY / INCONGRUITY
+- The image juxtaposes the action of sprinkling with the unexpected presence of small Kenyan flags, suggesting a humorous or exaggerated context. The flags replace a common substance like salt, adding an incongruous element to the scene.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post uses a quirky and exaggerated visual by replacing a common action like sprinkling salt with Kenyan flags, which adds a humorous and playful tone. This mirrors examples with hyperbolic yet sincere statements, often seen in NOT SARCASM posts (Example 15). The action and expression are more related to cultural pride or jest rather than sarcasm, as the tone does not indicate a clear or subtle irony.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The post uses a quirky and exaggerated visual by replacing a common action like sprinkling salt with Kenyan flags, which adds a humorous and playful tone. This mirrors examples with hyperbolic yet sincere statements, often seen in NOT SARCASM posts (Example 15). The action and expression are more related to cultural pride or jest rather than sarcasm, as the tone does not indicate a clear or subtle irony."
+712197093046296577,<user> good to see youre expanding your brand . what 's next blunt wraps ?,1,1,SARCASM,High,"The caption ""good to see you’re expanding your brand. what's next blunt wraps?"" carries a tone of ironic praise similar to examples of clear sarcasm. It suggests that the brand's extension into sweet tea is unexpected or amusing, questioning their next move with an exaggerated hypothetical. The image of industrially packaged sweet tea with labels such as ""All Natural"" in a typical store setting underscores the sarcastic tone by highlighting a banal product being humorously treated as a brand expansion into a consumer demographic that might indulge in ""blunt wraps."" The incongruity between the product's ordinary presentation and the caption's ironic suggestion aligns with characteristics of sarcasm.","Certainly! Here is an exhaustive description of the image:
+
+### 1. OVERALL SCENE
+The image depicts a display of beverage containers on a store shelf. The main focus is on a large jug in the center, prominently showcasing a sweet tea brand. The setting appears to be a grocery or convenience store.
+
+### 2. OBJECTS & POSITIONS
+- **Center**: A large plastic jug filled with a dark liquid, labeled as sweet tea.
+- **Top-Left & Top-Right**: Partial views of additional identical jugs, similarly labeled.
+- **Bottom-Center**: The shelf on which the jugs are placed, with an advertising strip.
+
+### 3. PEOPLE
+- There are no people visible in the image.
+
+### 4. TEXT / GRAPHICS
+- **Main Jug Label**: 
+  - ""All Natural"" in a yellow circle.
+  - ""MILO'S"" in large, white, uppercase letters on a red background.
+  - ""Famous Sweet Tea"" below the brand name.
+  - Ingredients and nutritional facts are detailed on the label.
+- **Shelf Strip**: 
+  - Reiterates ""MILO'S Famous Sweet Tea"" with a similar red theme.
+
+### 5. COLORS & TONE
+- **Colors**: 
+  - Dominant red and white on labels and shelf strip.
+  - Yellow accent for ""All Natural.""
+  - Dark brown liquid visible through the plastic jugs.
+- **Tone**: The image is well-lit, suggesting a typical retail environment.
+
+### 6. IRONY / INCONGRUITY
+- The phrase ""All Natural"" contrasts with the industrial packaging and appearance of the product, which is a large, mass-produced plastic jug.
+- The word ""Famous"" juxtaposes with the standard presentation in an ordinary store setting, which might suggest commonality rather than uniqueness.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""good to see you’re expanding your brand. what's next blunt wraps?"" carries a tone of ironic praise similar to examples of clear sarcasm. It suggests that the brand's extension into sweet tea is unexpected or amusing, questioning their next move with an exaggerated hypothetical. The image of industrially packaged sweet tea with labels such as ""All Natural"" in a typical store setting underscores the sarcastic tone by highlighting a banal product being humorously treated as a brand expansion into a consumer demographic that might indulge in ""blunt wraps."" The incongruity between the product's ordinary presentation and the caption's ironic suggestion aligns with characteristics of sarcasm.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The caption ""good to see you’re expanding your brand. what's next blunt wraps?"" carries a tone of ironic praise similar to examples of clear sarcasm. It suggests that the brand's extension into sweet tea is unexpected or amusing, questioning their next move with an exaggerated hypothetical. The image of industrially packaged sweet tea with labels such as ""All Natural"" in a typical store setting underscores the sarcastic tone by highlighting a banal product being humorously treated as a brand expansion into a consumer demographic that might indulge in ""blunt wraps."" The incongruity between the product's ordinary presentation and the caption's ironic suggestion aligns with characteristics of sarcasm."
+820055911796506625,the newest additions to steelersnation arrived in style at magee-womens hospital of upmc .,0,0,NOT SARCASM,Medium,"Although the post caption could seem quirky, describing newborns wearing sports-themed paraphernalia, the overall tone and presentation lean towards genuine celebration. The image’s context—a hospital nursery with babies peacefully sleeping—lacks any visible irony or sarcasm. Instead, it highlights a clear and sincere affiliation to a sports team, likening it to a familiality and pride often found in sports fandom, similar to examples of TRICKY NON-SARCASM where the apparent irony is actually genuine enthusiasm or pride.","Certainly! Here is an exhaustive description of the image provided:
+
+1. **OVERALL SCENE**
+   - The scene depicts three newborn babies in a hospital nursery. Each baby is placed in a separate hospital bassinet likely situated in a row across the image.
+
+2. **OBJECTS & POSITIONS**
+   - **Top-Left:** A blue item is visible on the edge of the left bassinet, possibly a healthcare-related item like a bottle cap or small toy.
+   - **Center:** Three wooden baby bassinets with clear plastic covers contain sleeping babies. The center bassinet is prominently displayed.
+   - **Bottom-Right:** The bassinets extend toward the bottom right, each containing its own set of similar furnishings and bedding.
+   - **Foreground:** The bassinets are forefront in the image, with their wooden and plastic components clearly detailed.
+   - **Background:** The background consists of a wooden floor with no visible walls or additional furnishings.
+
+3. **PEOPLE**
+   - **Position:** Each baby is centrally positioned within its own bassinet.
+   - **Expression:** The babies appear to be sleeping, with peaceful expressions typical for newborns.
+   - **Clothing:** All three are wearing similar knit hats; the central baby has a yellow and black pattern while the other two wear yellow hats. They're wrapped in yellow blankets with bold black text.
+   - **Emotion:** The scene exudes a calm and serene atmosphere typical of sleeping infants.
+
+4. **TEXT / GRAPHICS**
+   - The blankets covering the babies have bold black text printed on them, reading ""TERRIBLE TOWEL"" in large letters. This text is a distinctive graphic feature of the image.
+
+5. **COLORS & TONE**
+   - The dominant colors are yellow and black from the blankets and hats, contributing to a vibrant look. Wooden and neutral tones from the bassinets and flooring provide a warm and comforting ambiance. The lighting is bright, enhancing the clarity and sharpness of the scene.
+
+6. **IRONY / INCONGRUITY**
+   - There is an incongruity in the juxtaposition of newborn babies and the fan paraphernalia (Terrible Towels) associated with a sports team, suggesting a passionate or humorous allegiance to the team symbolized by the towels. The stark contrast between the serene setting and the bold sports-related text may insinuate an underlying humor or thematic irony.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: Although the post caption could seem quirky, describing newborns wearing sports-themed paraphernalia, the overall tone and presentation lean towards genuine celebration. The image’s context—a hospital nursery with babies peacefully sleeping—lacks any visible irony or sarcasm. Instead, it highlights a clear and sincere affiliation to a sports team, likening it to a familiality and pride often found in sports fandom, similar to examples of TRICKY NON-SARCASM where the apparent irony is actually genuine enthusiasm or pride.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: Although the post caption could seem quirky, describing newborns wearing sports-themed paraphernalia, the overall tone and presentation lean towards genuine celebration. The image’s context—a hospital nursery with babies peacefully sleeping—lacks any visible irony or sarcasm. Instead, it highlights a clear and sincere affiliation to a sports team, likening it to a familiality and pride often found in sports fandom, similar to examples of TRICKY NON-SARCASM where the apparent irony is actually genuine enthusiasm or pride."
+888962638499205121,"<user> <num> min of sitting on the counter , this should be a great pizza",1,0,NOT SARCASM,Medium,"The caption humorously highlights the absurdity of precisely timing a pizza's travel time versus its preparation time, but does not present obvious irony or incongruity. The visual underscores a diligent tracking system, aligning with the caption's quirky observation about time and pizza quality. The overall tone appears playful rather than genuinely critical or sarcastic.","Certainly! Here's a detailed description of the social media post image:
+
+1. **OVERALL SCENE**
+   - The image is a screenshot of a mobile application interface showing the progress of a food delivery order. It is divided into an upper and lower section.
+
+2. **OBJECTS & POSITIONS**
+   - **Top-left:** The status bar with indicators for time (22:20), LTE connection, and battery (63%).
+   - **Top-center:** A title bar displaying a close option and the phrase ""Track Your Order.""
+   - **Center:** A graphic labeled ""DOMINO'S TRACKER,"" featuring a progress bar indicating that an order is on its way. Below this, there is information about Lynne leaving the store with the order at 22:18.
+   - **Bottom-center:** An input field requires a phone number to track the order, a blacked-out section where the number is obscured, a small field labeled “ext,” and a red button labeled ""TRACK ORDER.""
+   - **Background:** The background is light gray with a subtle textured pattern.
+
+3. **PEOPLE**
+   - There are no people physically visible in the image, but the text references a person named Lynne who left the store with an order.
+
+4. **TEXT / GRAPHICS**
+   - **Top:** Close button, time, LTE, battery percentage.
+   - **Center:** “DOMINO'S TRACKER” in bold red text. Below, in smaller text, “Know the status of your order, from the moment it’s placed to the second it leaves our store for delivery or is ready to be picked up.”
+   - **Progress Bar:** Red and gray, indicating ""WE’RE ON THE WAY!"" with details of the delivery departure at 22:18.
+   - **Bottom:** Instruction to enter phone number to track the order, blacked-out section for privacy, red “TRACK ORDER” button, and a disclaimer about terms of use and age requirements.
+
+5. **COLORS & TONE**
+   - The primary colors are blue, red, and gray, creating a professional and corporate aesthetic typical of branded interfaces. The image has a formal tone with clear, functional graphics and text.
+
+6. **IRONY / INCONGRUITY**
+   - There is a visible contrast between the precise technological tracking capability showcased (down to the minute) and the actual need to verify tracking via phone number, suggesting a redundancy where the delivery is already on its way but still requires manual input to follow progress further.
+
+The description here objectively outlines the image contents in detail without assessing or providing judgments about sarcasm.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption humorously highlights the absurdity of precisely timing a pizza's travel time versus its preparation time, but does not present obvious irony or incongruity. The visual underscores a diligent tracking system, aligning with the caption's quirky observation about time and pizza quality. The overall tone appears playful rather than genuinely critical or sarcastic.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption humorously highlights the absurdity of precisely timing a pizza's travel time versus its preparation time, but does not present obvious irony or incongruity. The visual underscores a diligent tracking system, aligning with the caption's quirky observation about time and pizza quality. The overall tone appears playful rather than genuinely critical or sarcastic."
+921247351674687488,"go america ..... <user> <user> proud , honey ?",1,0,NOT SARCASM,Medium,"Without the specific image description to assess potential irony or incongruity, the evaluation relies on textual context. The caption uses ellipsis and a rhetorical question, which can suggest irony, yet similar patterns in previous examples (e.g., tricky non-sarcasm) have been labeled as genuine expression. Without clear text-image incongruity or sarcasm indicators, the post leans toward a quirky but genuine statement.","It seems that I cannot provide a detailed visual description for the specific image you've requested. If you have another image or further questions, feel free to let me know!","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: Without the specific image description to assess potential irony or incongruity, the evaluation relies on textual context. The caption uses ellipsis and a rhetorical question, which can suggest irony, yet similar patterns in previous examples (e.g., tricky non-sarcasm) have been labeled as genuine expression. Without clear text-image incongruity or sarcasm indicators, the post leans toward a quirky but genuine statement.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: Without the specific image description to assess potential irony or incongruity, the evaluation relies on textual context. The caption uses ellipsis and a rhetorical question, which can suggest irony, yet similar patterns in previous examples (e.g., tricky non-sarcasm) have been labeled as genuine expression. Without clear text-image incongruity or sarcasm indicators, the post leans toward a quirky but genuine statement."
+872796989301325825,i 'm just saying,1,1,SARCASM,High,"The main text, ""IT'S OKAY IF YOU DON'T LIKE ME. NOT EVERYONE HAS GOOD TASTE,"" exhibits clear irony by equating disliking the speaker with having poor taste. This indicates an obvious incongruity where the speaker pretends to be accepting but actually delivers a backhanded critique, aligning closely with examples of obvious irony or incongruity in previous sarcastic examples. The minimalist and centered text presentation emphasizes this sentiment without needing additional context or visuals.","### 1. OVERALL SCENE
+- The image is a minimalist text-based post. There is no presence of any people, landscapes, or complex visuals. It consists of a plain background with centered text.
+
+### 2. OBJECTS & POSITIONS
+- **Top-Left:** Empty space; devoid of any objects or text.
+- **Center:** The main text is positioned here, presented in a clean and modern font.
+- **Bottom-Right:** The text handle ""@keyto_fashion_"" is placed here, likely indicating the source or creator of the post.
+- **Foreground:** The text is the primary focus and occupies most of the visual space.
+- **Background:** Plain white background with no additional objects or patterns.
+
+### 3. PEOPLE
+- There are no people depicted in the image.
+
+### 4. TEXT / GRAPHICS
+- **Main Text:** “IT'S OKAY IF YOU DON'T LIKE ME. NOT EVERYONE HAS GOOD TASTE.” This text is large and occupies the center of the image, suggesting it's the focal point.
+- **Font Style:** The font is modern and stylish, with sleek lines and uniform spacing.
+- **Additional Text:** ""@keyto_fashion_"" in the bottom-right corner, likely indicating the creator’s social media handle.
+
+### 5. COLORS & TONE
+- The image is primarily monochromatic with black text on a white background.
+- The tone is minimalistic and straightforward, using clear contrasts to enhance legibility.
+
+### 6. IRONY / INCONGRUITY
+- The phrase “NOT EVERYONE HAS GOOD TASTE” suggests an ironic or tongue-in-cheek sentiment. The text indicates that disliking the speaker is equated with a lack of taste, which creates an incongruity between the acceptance of dislike and the critique implied within the acceptance.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The main text, ""IT'S OKAY IF YOU DON'T LIKE ME. NOT EVERYONE HAS GOOD TASTE,"" exhibits clear irony by equating disliking the speaker with having poor taste. This indicates an obvious incongruity where the speaker pretends to be accepting but actually delivers a backhanded critique, aligning closely with examples of obvious irony or incongruity in previous sarcastic examples. The minimalist and centered text presentation emphasizes this sentiment without needing additional context or visuals.","LABEL: SARCASM  
+CONFIDENCE: High  
+REASON: The main text, ""IT'S OKAY IF YOU DON'T LIKE ME. NOT EVERYONE HAS GOOD TASTE,"" exhibits clear irony by equating disliking the speaker with having poor taste. This indicates an obvious incongruity where the speaker pretends to be accepting but actually delivers a backhanded critique, aligning closely with examples of obvious irony or incongruity in previous sarcastic examples. The minimalist and centered text presentation emphasizes this sentiment without needing additional context or visuals."
+870411295366971393,yo <user> thanks for the yearly fee reminder ! here 's to you ! tweet,1,0,NOT SARCASM,Medium,"The caption uses a playful tone to express mild annoyance or cheekiness about a ""yearly fee reminder,"" which could initially seem sarcastic. However, the expression is casual and not overtly spiteful, fitting the criteria of TRICKY NON-SARCASM where sometimes seemingly ironic statements are indeed genuine. The image's playful scene with a jolly mascot and a branded cup adds to the light-hearted tone rather than a biting critique.","Here's a detailed description of the image under the specified headings:
+
+1. **OVERALL SCENE**
+   - The image captures a candid moment between two subjects in an indoor or enclosed space. It suggests a playful or casual interaction, likely in a setting related to sports or entertainment.
+
+2. **OBJECTS & POSITIONS**
+   - **Top-left**: A hand extends into the frame holding a large cup with a Coca-Cola branding visible.
+   - **Center**: The focus is on a character dressed as a baseball mascot. The character's large, baseball-shaped head and its position convey a sense of animation and interaction.
+   - **Background**: The setting appears to be indoors, with neutral, slightly textured surfaces like walls, indicating a corridor or service area.
+
+3. **PEOPLE**
+   - **Position**: The character stands slightly to the right, facing the camera with body turned towards the left side of the frame.
+   - **Expression**: The mascot's face has a permanent smile, typical of costume heads—an exaggerated, friendly appearance.
+   - **Clothing**: The mascot wears a white, pinstriped jersey with blue sleeves and the number '00'. A blue cap with orange elements is present.
+   - **Emotion**: The static design of the mascot's face suggests perpetual cheerfulness; however, the context and position of hands may hint at different implied emotions.
+
+4. **TEXT/GRAPHICS**
+   - The cup in the top-left prominently displays the Coca-Cola logo, styled in its traditional white font on a red background. There are no other visible texts or graphics.
+
+5. **COLORS & TONE**
+   - The scene predominantly features white, blue, and red tones. The mascot’s costume is largely white with blue accents, the cup is red with white, and the overall lighting is neutral, suggesting an even tone without dramatic shadows.
+
+6. **IRONY/INCONGRUITY**
+   - The interaction between the playful, permanently smiling mascot and the hand offering a branded drink might imply humor, especially if considered outside a typical beverage-sharing context. The exaggerated demeanor of the mascot can add a layer of irony or humor to mundane activities.
+
+This description provides an objective detailing of the image's content, elements, and possible incongruities without attempting to classify the post's tone.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption uses a playful tone to express mild annoyance or cheekiness about a ""yearly fee reminder,"" which could initially seem sarcastic. However, the expression is casual and not overtly spiteful, fitting the criteria of TRICKY NON-SARCASM where sometimes seemingly ironic statements are indeed genuine. The image's playful scene with a jolly mascot and a branded cup adds to the light-hearted tone rather than a biting critique.","LABEL: NOT SARCASM  
+CONFIDENCE: Medium  
+REASON: The caption uses a playful tone to express mild annoyance or cheekiness about a ""yearly fee reminder,"" which could initially seem sarcastic. However, the expression is casual and not overtly spiteful, fitting the criteria of TRICKY NON-SARCASM where sometimes seemingly ironic statements are indeed genuine. The image's playful scene with a jolly mascot and a branded cup adds to the light-hearted tone rather than a biting critique."
